@@ -25,8 +25,8 @@ product-wise revenue, profit margins and marketing KPIs.
 | Data | Source data |
 
 ## Screenshots
-![Dashboard](dashboard.png)
-![Charts](charts.png.png)
+![Dashboard](Dashboard.png)
+![Charts](charts.png)
 
 ## Key insights
 - West region brings in the most revenue
