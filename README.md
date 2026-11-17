@@ -25,7 +25,7 @@ product-wise revenue, profit margins and marketing KPIs.
 | Data | Source data |
 
 ## Screenshots
-![Dashboard](dashboard.png.png)
+![Dashboard](dashboard.png)
 ![Charts](charts.png.png)
 
 ## Key insights
